@@ -1,0 +1,2 @@
+For random number generation-  http://www.cplusplus.com/articles/EywTURfi/
+To learn graphics library - http://www.programmingsimplified.com/c/graphics.h
